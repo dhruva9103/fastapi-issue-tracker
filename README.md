@@ -2,7 +2,7 @@
 
 A mini production-style REST API built with FastAPI for tracking issues. This project demonstrates core FastAPI concepts including routing, data validation with Pydantic, CRUD operations, and file-based persistence.
 
-This is the project from my [FastAPI Crash Course](https://youtu.be/8TMQcRcBnW8)
+This is the project using FastAPI
 
 ## Features
 
